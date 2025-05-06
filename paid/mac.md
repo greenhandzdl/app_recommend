@@ -10,7 +10,7 @@
 | Folder Hub        | ✅           |
 | Hazeover          | ✅           |
 | iBar Pro          | ✅           |
-| Pixelm Pro        | ❌           |
+| Pixelmator Pro        | ❌           |
 | Prodraft          | ✅           |
 | Pro 套餐(Mac)     | ✅           |
 | Tampermonkey      | ✅           |
