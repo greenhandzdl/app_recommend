@@ -4,6 +4,7 @@
 |-------------------|--------------|
 | Adguard           | ✅           |
 | [Bob](https://github.com/ripperhe/Bob?tab=readme-ov-file)      | ✅           |
+| [SimpleTex](https://simpletex.cn/user/register?code=mbltofDj)  | ✅           |
 | Cubase LE         | ✅           |
 | DemoPro           | ✅           |
 | FinalShell        | ✅           |
