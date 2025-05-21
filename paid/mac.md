@@ -7,7 +7,8 @@
 | Cubase LE         | ✅           |
 | DemoPro           | ✅           |
 | FinalShell        | ✅           |
-| Folder Hub        | ✅           |
+| Folder Hub(建议选取下者--文件夹夹)        | ✅           |
+| 文件夹夹          | ✅           |
 | Hazeover          | ✅           |
 | iBar Pro          | ✅           |
 | Pixelmator Pro        | ❌           |
