@@ -15,3 +15,4 @@
 | Prodraft          | ✅           |
 | Pro 套餐(Mac)     | ✅           |
 | Tampermonkey      | ✅           |
+| Texifier          | ❌           |
