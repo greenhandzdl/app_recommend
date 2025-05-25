@@ -18,6 +18,7 @@
 | 存储空间隔离(play store)           | ✅           |
 | 每日英语听力 | ✅           |
 | 五十音轻松学 | ✅           |
+| ReadEra Premium           | ✅           |
 | Thanox Pro           | ✅           |
 | WoodBox | ✅           |
 
