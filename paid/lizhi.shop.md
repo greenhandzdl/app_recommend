@@ -1,7 +1,7 @@
 | 软件名称          | 软件购买状态 |
 |-------------------|:------------:|
 | PasteNow           | ✅           |
-| App Cleaner & Uninstaller 8(多语言)|  ✅           |
+| App Cleaner & Uninstaller 8(多语言) :子版本更新可用,不推荐 |  ✅           |
 | 超级右键           | ✅           |
 | Typora            | ✅           |
 | PicSee | ✅ |
