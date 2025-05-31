@@ -7,8 +7,10 @@
 | PicSee | ✅ |
 | 极度扫描 | ✅ |
 | 白描App | ✅ |
-| [QuartzCode](https://lizhi.shop/products/quartzcode) | ❌ |
-| [Little Snitch 6](https://lizhi.shop/products/little-snitch) | ❌ |
-| [Bandzip](https://lizhi.shop/products/Bandizip)              |      ❌       |
+| 迅捷 PDF 转换器                                              |      ✅       |
+| BalmyTime                                                    |      ✅       |
 |                                                              |              |
-| [navicat-premium](https://lizhi.shop/products/navicat-premium):子版本更新,谁买谁__ | ❌❌❌ |
+| [QuartzCode](https://lizhi.shop/products/quartzcode) | ❌ |
+| [Little Snitch 6](https://lizhi.shop/products/little-snitch) |      ❌       |
+| Bandzip:暂时没Mac端 | ❌ |
+| [navicat-premium](https://lizhi.shop/products/navicat-premium):子版本更新 | ❌❌❌ |
