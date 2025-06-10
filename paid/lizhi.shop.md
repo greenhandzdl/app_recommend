@@ -9,7 +9,7 @@
 | 白描App | ✅ |
 | 迅捷 PDF 转换器                                              |      ✅       |
 | BalmyTime                                                    |      ✅       |
-|                                                              |              |
+| Medis 2 | ✅ |
 | [QuartzCode](https://lizhi.shop/products/quartzcode) | ❌ |
 | [Little Snitch 6](https://lizhi.shop/products/little-snitch) |      ❌       |
 | Bandzip:暂时没Mac端 | ❌ |
