@@ -14,3 +14,4 @@
 | [Little Snitch 6](https://lizhi.shop/products/little-snitch) |      ❌       |
 | Bandzip:暂时没Mac端 | ❌ |
 | [navicat-premium](https://lizhi.shop/products/navicat-premium):子版本更新 | ❌❌❌ |
+| 解压专家Oka | ✅ |
