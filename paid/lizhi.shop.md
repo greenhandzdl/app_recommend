@@ -15,3 +15,4 @@
 | Bandzip:暂时没Mac端 | ❌ |
 | [navicat-premium](https://lizhi.shop/products/navicat-premium):子版本更新 | ❌❌❌ |
 | 解压专家Oka | ✅ |
+| QSpace(带插件那种,强烈推荐.邀请码:7CPTKP) | ✅ |
