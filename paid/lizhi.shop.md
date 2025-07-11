@@ -1,5 +1,5 @@
 | 软件名称          | 软件购买状态 |
-|-------------------|:------------:|
+|:-----------------:|:------------:|
 | PasteNow           | ✅           |
 | App Cleaner & Uninstaller 8(多语言) :子版本更新可用,不推荐 |  ✅           |
 | 超级右键           | ✅           |
@@ -16,3 +16,4 @@
 | [navicat-premium](https://lizhi.shop/products/navicat-premium):子版本更新 | ❌❌❌ |
 | 解压专家Oka(不是很推荐,预览格式少) | ✅ |
 | QSpace(带插件那种,强烈推荐.邀请码:7CPTKP) | ✅ |
+| NoTab(浏览器插件) | ✅ |

@@ -18,3 +18,4 @@
 | Pro 套餐(Mac)     | ✅           |
 | Tampermonkey      | ✅           |
 | Cubase lte | ✅ |
+| FastZipPro | ✅ |
