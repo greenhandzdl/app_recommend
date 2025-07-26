@@ -23,6 +23,7 @@
 | Thanox Pro           | ✅           |
 | WoodBox | ✅           |
 | 闪念贝壳 | ✅ |
+| Retro Music | ✅ |
 
 ### 游戏推荐
 
