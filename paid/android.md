@@ -5,15 +5,15 @@
 | AdvSetting           | ✅           |
 | MT管理器         | ✅           |
 | VMOS Pro           | ✅           |
+| WoodBox（一个木函） | ✅           |
 | 不背单词 | ✅           |
 | 爱时间、小习惯(不推荐) | ✅           |
-| 人生   | ✅           |
-| 清浊 | ✅           |
 | 次元壁纸 | ✅           |
 | 纯纯写作   | ✅           |
-| 轻听英语 | ✅           |
+| 清浊 | ✅           |
+| 人生   | ✅           |
 | 每日英语听力 | ✅           |
-| WoodBox（一个木函） | ✅           |
+| 轻听英语 | ✅           |
 | 闪念贝壳 | ✅ |
 
 #### 谷歌商店
@@ -21,14 +21,13 @@
 |-------------------|--------------|
 | HeyJapen           | ✅           |
 | JuiceSSH | ✅           |
+| Moon+ Reader Pro | ✅ |
+| ReadEra Premium           | ✅           |
+| Retro Music | ✅ |
+| Thanox Pro           | ✅           |
 | YMusic(准确来说是Premium版本)          | ✅           |
 | 存储空间隔离(play store)           | ✅           |
 | 五十音轻松学 | ✅           |
-| ReadEra Premium           | ✅           |
-| Thanox Pro           | ✅           |
-| Retro Music | ✅ |
-| Moon+ Reader Pro | ✅ |
-
 ---
 ### 游戏推荐
 | 游戏名称                  | 游戏购买状态 |
