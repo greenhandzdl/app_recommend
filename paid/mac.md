@@ -14,6 +14,7 @@
 | Hazeover          | ✅           |
 | iBar Pro          | ✅           |
 | Pixelmator Pro        | ❌           |
+| Artstudio Pro | ✅ |
 | Prodraft          | ✅           |
 | Pro 套餐(Mac)     | ✅           |
 | Tampermonkey      | ✅           |
