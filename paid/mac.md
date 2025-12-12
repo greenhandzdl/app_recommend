@@ -14,9 +14,12 @@
 | Hazeover          | ✅           |
 | iBar Pro          | ✅           |
 | Pixelmator Pro        | ❌           |
+| photomatro        | ❌          |
 | Artstudio Pro | ✅ |
 | Prodraft          | ✅           |
 | Pro 套餐(Mac)     | ✅           |
 | Tampermonkey      | ✅           |
 | Cubase lte | ✅ |
 | FastZipPro | ✅ |
+| expressions(会正则的不用看了) | ✅ |
+| SideNotes | ✅ |
