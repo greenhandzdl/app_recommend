@@ -18,8 +18,7 @@
 | Artstudio Pro | ✅ |
 | Prodraft          | ✅           |
 | Pro 套餐(Mac)     | ✅           |
+| Downie 4 | ✅ |
 | Tampermonkey      | ✅           |
 | Cubase lte | ✅ |
 | FastZipPro | ✅ |
-| expressions(会正则的不用看了) | ✅ |
-| SideNotes | ✅ |

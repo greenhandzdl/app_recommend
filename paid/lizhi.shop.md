@@ -18,3 +18,5 @@
 | QSpace(带插件那种,强烈推荐.邀请码:7CPTKP) | ✅ |
 | NoTab(浏览器插件) | ✅ |
 | disk-drill-pro-6(恢复软件) | ✅ |
+| expressions(会正则的不用看了) | ✅ |
+| SideNotes | ✅ |
