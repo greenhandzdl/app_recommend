@@ -22,3 +22,6 @@
 | Tampermonkey      | ✅           |
 | Cubase lte | ✅ |
 | FastZipPro | ✅ |
+|iA Writer | ❌ |
+| iA Presenter | ❌ |
+| [writeathon](https://www.writeathon.cn) | ❌ |
