@@ -23,3 +23,4 @@
 |InputLock | ✅ |
 | LaunchOS | ✅ |
 | Eagle | ✅ |
+| IAuto | ✅ |
