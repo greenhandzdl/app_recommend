@@ -24,3 +24,5 @@
 | LaunchOS | ✅ |
 | Eagle | ✅ |
 | IAuto | ✅ |
+| eM Client | ✅ |
+| ScreenMemory | ✅ |
