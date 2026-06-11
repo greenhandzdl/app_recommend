@@ -28,3 +28,5 @@
 | ScreenMemory | ✅ |
 | MWeb Pro(不如直接app store买，这个更便宜) | ✅ |
 | AnyDroid | ✅ |
+| AIDente Pro|✅ |
+| Vibe Island | ✅ |
