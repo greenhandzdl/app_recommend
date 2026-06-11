@@ -26,3 +26,5 @@
 | IAuto | ✅ |
 | eM Client | ✅ |
 | ScreenMemory | ✅ |
+| MWeb Pro(不如直接app store买，这个更便宜) | ✅ |
+| AnyDroid | ✅ |
