@@ -32,3 +32,6 @@
 | Vibe Island | ✅
 | Dockside | ✅ |
 | [Gety](gety.ai) | ✅ |
+| [zipic](https://zipic.app/cn/#home) |  ✅ |
+｜ Rocket Typist｜ ✅ ｜
+｜PDF Squeezer ｜✅ ｜
